@@ -4,6 +4,8 @@ A tool for getting Baldur's Gate 3 character voicelines
 
 Download the VoiceStuffTool.rar file and unzip it. The program itself is VoiceStuffTool\bin\Debug\VoiceStuffTool.exe
 
+(if you don't know how to download it, look for the green "Code" button, it's up and to the right. Click it, then "Download ZIP")
+
 The .rar also contains the entire source code for the program. Due to GitHub size limits I could not just upload them as files.
 
 Usage:
