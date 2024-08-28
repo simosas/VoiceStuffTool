@@ -29,3 +29,7 @@ The program will attempt to guess which files might be the "real" ones, those wi
 
 
 For Tav voices, input Voice1 / Voice2 / Voice3 etc.
+
+
+
+2024/8/29 - fixed some characters having voicelines shifted one row up
