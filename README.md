@@ -27,6 +27,8 @@ You will get a warning if the chosen character has point and click or spell cast
 
 The program will attempt to guess which files might be the "real" ones, those will appear as "potential extra matches" in the character filenames file.
 
+Currently in the works: more accurate system for getting spell cast/point and click voicelines.
+
 
 For Tav voices, input Voice1 / Voice2 / Voice3 etc.
 
