@@ -35,3 +35,5 @@ For Tav voices, input Voice1 / Voice2 / Voice3 etc.
 
 
 2024/8/29 - fixed some characters having voicelines shifted one row up
+
+2024/10/15 - patch 7 update, a bunch of new mappings. likely not gonna work on this too much more cause no time
